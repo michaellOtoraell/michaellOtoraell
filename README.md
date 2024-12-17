@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @michaellOtoraell
-- 👀 I’m interested in systems and android development.
-- 🌱 I’m currently learning java Android app development.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hello World, I’m @michaellOtoraell
+- 👀 I’m interested in systems made of Java-Spring-boot and php-laravel backend .
+- 🌱 I’m currently learning security in several technologies.
 - 📫 How to reach me on. michaelotorael4@gmail.com .
 
 <!---
